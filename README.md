@@ -48,6 +48,16 @@ f)ng doc for documentation
 
 Style guide.
 
-john papa style guide angular 1
+john papa style guide foe angular 1
 
 Please refer to the screen shots for further reference.
+
+Scope for enhancement.
+
+1)Provide visualization using D3.js or any visulalization framework on the errors.
+2)Export the error report.
+3)Mailing functionality.
+4)Validating multiple files at the same time.
+
+
+
