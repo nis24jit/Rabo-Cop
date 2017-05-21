@@ -19,7 +19,7 @@ http://localhost:9000/#/
 
 To run the Unit tests.
 
-Run npm test.
+a)npm test.
 
 Patterns and practices.
 
