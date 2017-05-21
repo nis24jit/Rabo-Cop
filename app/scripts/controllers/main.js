@@ -19,8 +19,6 @@
     /* @ngInject */
     function MainCtrl($scope, DataCorrectionFactory) {
 
-        var $ = angular.element;
-
         /**
          * Instantiate the file reader and api.
          *
