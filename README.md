@@ -33,7 +33,7 @@ Exception handling mechanism's are in place for handling redundant as well data 
 
 Tools and Technologies
 
-a)Angular.js ~1.2.0
+a)Angular.js 
 
 b)Grunt as the task manager
 
