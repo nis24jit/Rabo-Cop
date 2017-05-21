@@ -17,6 +17,10 @@ Launch the app at the following URL
 
 http://localhost:9000/#/
 
+To run the Unit tests.
+
+a)npm test.
+
 Patterns and practices.
 
 The app leverages on the module revealing pattern as well as the usage IIFE to encapsulate as well as separate the concerns between different parts of the app.
@@ -29,7 +33,7 @@ Exception handling mechanism's are in place for handling redundant as well data 
 
 Tools and Technologies
 
-a)Angular.js ~1.2.0
+a)Angular.js 
 
 b)Grunt as the task manager
 
@@ -44,6 +48,6 @@ f)ng doc for documentation
 
 Style guide.
 
-john papa style guide angular 
+john papa style guide angular 1
 
 Please refer to the screen shots for further reference.
