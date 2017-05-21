@@ -17,6 +17,10 @@ Launch the app at the following URL
 
 http://localhost:9000/#/
 
+To run the Unit tests.
+
+Run npm test.
+
 Patterns and practices.
 
 The app leverages on the module revealing pattern as well as the usage IIFE to encapsulate as well as separate the concerns between different parts of the app.
