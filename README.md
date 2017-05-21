@@ -1,5 +1,5 @@
 # Rabo-Cop
-An app to parse and validate CSV/Xml files against certain criteria's.
+An app to parse and validate CSV/Xml files against predefined criteria.
 
 Steps to run the app.
 
