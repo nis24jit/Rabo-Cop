@@ -48,6 +48,6 @@ f)ng doc for documentation
 
 Style guide.
 
-john papa style guide angular 
+john papa style guide angular 1
 
 Please refer to the screen shots for further reference.
